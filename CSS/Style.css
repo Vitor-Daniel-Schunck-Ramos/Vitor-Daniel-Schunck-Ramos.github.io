@@ -1,0 +1,115 @@
+.containerheader {
+    width: auto;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #E0F2FB;
+
+}
+
+h1 {
+    font-family: Lato, Helvetica, sans-serif;
+    font-weight: 540
+}
+
+#aluralogo {
+  width: auto;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 20px;
+  left: 10px;
+
+}
+
+div.vertical-line {
+    width: auto;
+    height: 50px;
+    border-left: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 20px;
+    left: 106px;
+}
+
+
+#onelogo {
+  width: auto;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 20px;
+  left: 110px;
+
+}
+
+.center {
+
+   width: auto;
+   margin-left: auto;
+   margin-right: auto;
+   left: 50%;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+
+ }
+
+h2 {
+
+  color: #000000;
+  font-size: 20px;
+  font-weight: lighter;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.text-input {
+    border-radius: 0.5em;
+    border: 1px solid #000000;
+    display: block;
+    padding: 15.6px;
+    width: 50%;
+    margin-left: 23.5%;
+    height: auto;
+    background-color: #ffffff;
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 10px;
+    resize: none;
+
+  }
+
+  .botao {
+    display: flex;
+    justify-content: space-between;
+    width: 430px;
+    margin-left: 460px;
+
+}
+
+.btn {
+    width: 125px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 0.5em;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 13px;
+
+  }
+
+    #onebadge {
+      width: 320px;
+      height: 320px;
+      display: flex;
+      flex-direction: row;
+      position: absolute;
+      left: 500px
+
+}
